@@ -8,7 +8,6 @@ a("staging", "106.187.37.40")
 a("tokyo", "106.187.37.40")
 a("yami", "106.187.37.40")
 
-cname("10.tokyo", "regional.rubykaigi.org.")
 cname("2006", _a)
 cname("2007", _a)
 cname("2008", _a)
