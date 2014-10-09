@@ -7,10 +7,10 @@ function google_app(domain)
   mx(domain, "aspmx3.googlemail.com", 20)
 
   -- Additional Google Apps records
-  cname(concat("calendar", domain), "ghs.google.com")
-  cname(concat("docs", domain), "ghs.google.com")
-  cname(concat("mail", domain), "ghs.google.com")
-  cname(concat("sites", domain), "ghs.google.com")
+  -- cname(concat("calendar", domain), "ghs.google.com")
+  -- cname(concat("docs", domain), "ghs.google.com")
+  -- cname(concat("mail", domain), "ghs.google.com")
+  -- cname(concat("sites", domain), "ghs.google.com")
 
   -- Configure SPF
   txt(domain, "v=spf1 a mx include:_spf.google.com ~all")
