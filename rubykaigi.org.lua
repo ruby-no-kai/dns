@@ -1,7 +1,6 @@
 a(_a, "106.187.37.40")
 
 a("linode", "106.187.37.40")
-a("regional", "106.187.37.40")
 
 cname("2006", _a)
 cname("2007", _a)
@@ -13,5 +12,6 @@ cname("staging", "rko-router.herokuapp.com.")
 cname("sapporo", "rko-router.herokuapp.com.")
 cname("yami", "rko-router.herokuapp.com.")
 cname("j", "rko-router.herokuapp.com.")
+cname("regional", "rko-router.herokuapp.com.")
 
 google_app(_a)
