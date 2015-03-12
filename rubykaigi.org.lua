@@ -1,8 +1,8 @@
-a(_a, "106.187.37.40")
-
 a("linode", "106.187.37.40")
 
 router = "rko-router.herokuapp.com."
+
+alias(_a, router)
 
 cname("2006", router)
 cname("2007", router)
