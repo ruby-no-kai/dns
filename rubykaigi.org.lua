@@ -15,5 +15,6 @@ cname("sapporo", router)
 cname("yami", router)
 cname("j", router)
 cname("regional", router)
+cname("regional-gh", "ruby-no-kai.github.io.")
 
 google_app(_a)
