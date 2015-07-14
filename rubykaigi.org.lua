@@ -24,4 +24,4 @@ mx(_a, "alt2.aspmx.l.google.com", 10)
 mx(_a, "aspmx2.googlemail.com", 20)
 mx(_a, "aspmx3.googlemail.com", 20)
 
-txt(_a, "v=spf1 a mx include:_spf.google.com ~all")
+txt(_a, "v=spf1 a mx include:_spf.google.com include:sendgrid.net ~all")
