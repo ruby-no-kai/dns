@@ -22,6 +22,10 @@ cname("cfp-mail", "u1814470.wl.sendgrid.net")
 cname("s1._domainkey", "s1.domainkey.u1814470.wl.sendgrid.net")
 cname("s2._domainkey", "s2.domainkey.u1814470.wl.sendgrid.net")
 
+-- for SendGrid of (sponsor) tickets
+mx("ticket", "mx.sendgrid.net", 10)
+
+
 -- for Google Apps
 mx(_a, "aspmx.l.google.com", 5)
 mx(_a, "alt1.aspmx.l.google.com", 10)
