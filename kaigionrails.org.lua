@@ -3,6 +3,8 @@ a(_a, "185.199.109.153")
 a(_a, "185.199.110.153")
 a(_a, "185.199.111.153")
 
+cname("past", "ruby-no-kai.github.io.")
+cname("cfp", "fundamental-bedbug-0etq6gplqbbvcenmoum4b7fd.herokudns.com.")
 cname("22161183", "case-22161183-for-kaigionrails.org-at.google.com.")
 
 mx(_a, "aspmx.l.google.com", 1)
