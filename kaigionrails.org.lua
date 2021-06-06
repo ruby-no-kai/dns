@@ -1,7 +1,4 @@
-a(_a, "185.199.108.153")
-a(_a, "185.199.109.153")
-a(_a, "185.199.110.153")
-a(_a, "185.199.111.153")
+alias(_a, "mammalian-snail-4nwu8u68e7a4592btwe8ztwq.herokudns.com")
 
 cname("past", "ruby-no-kai.github.io.")
 cname("2021", "ruby-no-kai.github.io.")
