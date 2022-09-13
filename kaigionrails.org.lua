@@ -1,5 +1,7 @@
 alias(_a, "mammalian-snail-4nwu8u68e7a4592btwe8ztwq.herokudns.com")
 
+a("upload-2022", "199.36.158.100", 300)
+
 cname("past", "ruby-no-kai.github.io.")
 cname("2021", "ruby-no-kai.github.io.")
 cname("2022", "kaigionrails.github.io.")
